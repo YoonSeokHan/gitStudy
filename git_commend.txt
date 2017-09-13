@@ -1,0 +1,8 @@
+git clone > 처음 불러오기
+git pull > 정보 받기
+git push > 정보 올리기
+git status > 상태확인(최신인지아닌지)
+git init > 폴더에서 초기화 작업
+git remote add 주소(깃 프로젝트) > 이 폴더에 깃프로젝트 주소를 연결
+git remote -v > 폴더랑 연결돼있는 폴더를 보여줌
+git connit -m "
